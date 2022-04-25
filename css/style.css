@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-image:url('../img/bg.jpg');
+}
+.container{
+    background-color: black;
+    opacity: 78%;
+    color:white;
+}
